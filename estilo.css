@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Roboto:ital,wght@1,700&display=swap');
+
 
 *{
         box-sizing: border-box;
@@ -9,7 +9,7 @@
 }
 
 html{
-    /*me permite deslizar cuando hago clic en los links del manu*/
+    
     scroll-behavior: smooth;
 
 
@@ -66,16 +66,7 @@ html{
     color: red;
 }
 
-.nav-responsive{
-    color: white;
-    padding: 5px 10px;
-    border-radius: 5px;
-    cursor: pointer;
-    display: none;
-    
-    
 
-}
 
 /*INICIO*/
 
@@ -436,6 +427,10 @@ html{
     #nav ul{
         display: block;
     }
+
+    .inicio .contenido-banner{
+        margin-top: 200px;
+    }
     
     .habilidades .contenido-seccion .fila .col{
         width: 100%;
@@ -466,7 +461,22 @@ html{
     }
     .contacto .contenido-seccion .fila{
         display: block;
+        
     }
+
+    .contacto .contenido-seccion .phon{
+        margin-top: 100px;
+    }
+
+    .contacto .contenido-seccion .cor{
+        margin-top: 55px;
+    }
+
+    .contacto .contenido-seccion .pag{
+        margin-top: 55px;
+    }
+
+    
 
 }
 
