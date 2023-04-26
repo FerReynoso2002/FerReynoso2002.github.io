@@ -415,7 +415,9 @@ html{
     }
 
     .inicio .contenido-banner{
-        margin-top: 200px;
+        display: block;
+        margin-top: 150px;
+
     }
     
     .habilidades .contenido-seccion .fila .col{
