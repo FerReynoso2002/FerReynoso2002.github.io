@@ -419,7 +419,6 @@ html{
         margin-top: 150px;
 
     }
-    
     .habilidades .contenido-seccion .fila .col{
         width: 100%;
         text-align: left;
@@ -427,11 +426,7 @@ html{
     .habilidades .contenido-seccion .fila{
         display: block;
     }
-    .sobremi .contenido-seccion .fila .col{
-        width: 80%;
-        margin: auto;
-        margin-top: 20px;
-    }
+    
     .resumen .contenido-seccion .info{
         display: block;
     }
@@ -444,8 +439,8 @@ html{
         text-align: center;
     }
     .resumen .contenido-seccion .info .col table{
-        margin-top: 10px;
-        margin-bottom: 30px;
+        margin-top: 20px;
+        
     }
     .contacto .contenido-seccion .fila{
         display: block;
@@ -453,15 +448,15 @@ html{
     }
 
     .contacto .contenido-seccion .phon{
-        margin-top: 100px;
+        margin-bottom: 50px;
     }
 
     .contacto .contenido-seccion .cor{
-        margin-top: 55px;
+        margin-bottom: 50px;
     }
 
     .contacto .contenido-seccion .pag{
-        margin-top: 55px;
+        margin-bottom: 50px;
     }
 
     
